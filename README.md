@@ -1,4 +1,4 @@
-# This repository is for all the projects I do in my Introduction to Data Science course.
+This repository is for all the projects I do in my Introduction to Data Science course.
 
 # EDA:
 
