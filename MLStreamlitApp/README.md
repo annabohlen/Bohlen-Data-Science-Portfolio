@@ -35,7 +35,7 @@ If they chose a regression problem, users see MSE and R^2 scores, and a plot of 
 ![App Screenshot](images/Cereal8.png)
 
 
-Click here to visit my app: *deployed link*
+Click here to visit my app: https://bohlen-data-science-portfolio-rfcebctk2zkhtw5g7n3eso.streamlit.app/
 
 To run this app locally:
   1. Clone the respository:
