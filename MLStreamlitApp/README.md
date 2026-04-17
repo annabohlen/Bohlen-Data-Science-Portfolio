@@ -2,7 +2,7 @@
 The goal of my project was to develop a streamlit app that guides the users through a supervised machine learning experience.
 On the app, users can navigate across 3 different tabs, where they can explore different aspects of the machine learning process!
 
-#**Tab 1 - Data**
+#**Tab 1 - Data 📂**
 
 Users can upload their own dataset or choose a sample dataset. Once they see a preview of the dataset, they can select a target column.
 
@@ -10,7 +10,7 @@ Users can upload their own dataset or choose a sample dataset. Once they see a p
 ![App Screenshot](images/Cereal2.png)
 
 
-#**Tab 2 - Model Setup**
+#**Tab 2 - Model Setup 🧠**
 
 Users can choose between 2 machine learning models that work for both classification and regression tasks.
   1. Decision Tree - a model that creates a hierarchical structure of "branches" that guides the computer towards a decision.
@@ -23,7 +23,7 @@ The user can then set their own hyperparameters, such as test size, max depth (i
 ![App Screenshot](images/Cereal4.png)
 
 
-#**Tab 3 - Results**
+#**Tab 3 - Results 📊**
 
 Users can now see how the hyperparameters that they chose affected model performance!
 If they chose a classification problem, users see the accuracy of their model, a confusion matrix, and a classification report.
