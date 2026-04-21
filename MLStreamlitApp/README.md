@@ -51,7 +51,7 @@ To run this app locally:
    3. Run the streamlit app
       (streamlit run code.py) 
 
-Here are some of the resources I used to build this app:
-  Sample dataset: https://www.kaggle.com/datasets/crawford/80-cereals
-  Streamlit cheat sheet: https://docs.streamlit.io/develop/quick-reference/cheat-sheet
+Here are some of the resources I used to build this app:<br>
+  Sample dataset: https://www.kaggle.com/datasets/crawford/80-cereals<br>
+  Streamlit cheat sheet: https://docs.streamlit.io/develop/quick-reference/cheat-sheet<br>
   Markdown guide: https://www.markdownguide.org/basic-syntax/
