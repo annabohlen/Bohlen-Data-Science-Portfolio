@@ -1,4 +1,4 @@
-# **Welcome to my Tidy Data Project!**
+# **Welcome to my Tidy Data Project! 📊**
 The goal of this project was to practice cleaning up a dataset that is untidy. In order for a computer to be able to effectively
 perform calculations on a dataset, it must be in a "Tidy" format. For a data set to be tidy, the following must be true:
 1. Each variable forms a column.
