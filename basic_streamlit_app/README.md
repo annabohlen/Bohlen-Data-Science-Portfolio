@@ -1,1 +1,2 @@
-This folder contains the projects I will work on using Streamlit in my Intro to Data Science class.
+# **Welcome to my first official Streamlit app!**
+
