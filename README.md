@@ -1,5 +1,10 @@
 # **Welcome to my Introduction to Data Science course repository!**
-This is where I will keep all the projects I work on in my Introduction to Data Science course.
+This is where I will keep all the projects I work on in my Introduction to Data Science course.<br>
+At a glance:<br>
+Project #1 - [Streamlit App Analysis of Dataset on Student Social Media](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/basic_streamlit_app)
+Project #2 - [Jupyter Notebook EDA of Mutant Moneyball Dataset](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/TidyData-Project)
+Project #3 - [Interactive Supervised Machine Learning Streamlit App](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+Project #4 - [Interactive Unsupervised Machine Learning Streamlit App](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 
 # Project #1 📱
 The first project I did this semester was an analysis of a dataset from Kaggle entitled "Student Social Media & Relationships". It allowed me to practice using streamlit for Exploratory Data Analysis. I created 5 visualizations that allowed me to glean insights from the data. For instance, people who spend more time on social media are more likely to experience conflicts in their relationships, and the 3 social media apps that are the highest in addictiveness and popularity are Instagram, Facebook and Tiktok. 
