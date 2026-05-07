@@ -4,7 +4,7 @@ perform calculations on a dataset, it must be in a "Tidy" format. For a data set
 1. Each variable forms a column.
 2. Each observation forms a row.
 3. Each type of observational unit forms a table.<br>
-After cleaning up the dataset, I also created a couple visualizations in order to help me better understand the dataset.
+After tidying up the dataset, I also created a couple visualizations in order to help me better understand the dataset.
 
 **Step 1 - Melt the data 🫠**
 
