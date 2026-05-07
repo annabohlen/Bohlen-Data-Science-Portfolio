@@ -16,7 +16,7 @@ Users can choose between 2 machine learning models that work for both classifica
   1. Decision Tree - a model that creates a hierarchical structure of "branches" that guides the computer towards a decision.
      The user uses a slider to adjust the Max Depth of the tree formed by this model.
   2. K-Nearest Neighbors (KNN) - a distance-based model that predicts using nearby data points.
-     The user uses the slider to adjust the K, or number of neighbors, that the model uses to predict.
+     The user uses the slider to adjust the K, or number of neighbors, that the model uses to predict.<br>
 The user can then set their own hyperparameters, such as test size, max depth (if they choose Decision Tree) and K (if they choose K-Nearest Neighbors).
 
 ![App Screenshot](images/Cereal3.png)
