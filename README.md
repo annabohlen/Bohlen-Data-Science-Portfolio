@@ -18,3 +18,11 @@ The third project I did this semester was a Streamlit App that guides users thro
 Here is a link to my project:
 https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLStreamlitApp
 ![App Screenshot](MLStreamlitApp/images/Cereal1.png)
+
+# Project #4 📈
+The fourth project I did this semester was a Streamlit App similar to Project #3 but for unsupervised learning. It guides users through an interactive experience where they can upload their own dataset and then experiment with different unsupervised machine learning models and hyperparameters. I used two clustering models (K-Means Clustering and Hierarchical Clustering) and one dimension reduction model (Principal Component Analysis (PCA)).
+After the user picks their desired model and chooses hyperparameters such as k, linkage, or n-components, they can view performance feedback, such as scatterplots, dendrograms, elbow plots or silhouette scores. Designing this app helped me appreciate key differences between supervised and unsupervised learning, as well as better understand the different scenarios in which one would use a clustering technique versus a dimension reduction technique.
+Here is a link to my project:
+https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLUnsupervisedApp
+![App Screenshot](MLStreamlitApp/images/Final11.png)
+
