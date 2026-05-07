@@ -1,9 +1,9 @@
 # **Welcome to my Introduction to Data Science course repository!**
 This is where I will keep all the projects I work on in my Introduction to Data Science course.<br>
 At a glance:<br>
-Project #1 - [Streamlit App Analysis of Dataset on Student Social Media](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/basic_streamlit_app)
-Project #2 - [Jupyter Notebook EDA of Mutant Moneyball Dataset](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/TidyData-Project)
-Project #3 - [Interactive Supervised Machine Learning Streamlit App](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLStreamlitApp)
+Project #1 - [Streamlit App Analysis of Dataset on Student Social Media](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/basic_streamlit_app)<br>
+Project #2 - [Jupyter Notebook EDA of Mutant Moneyball Dataset](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/TidyData-Project)<br>
+Project #3 - [Interactive Supervised Machine Learning Streamlit App](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLStreamlitApp)<br>
 Project #4 - [Interactive Unsupervised Machine Learning Streamlit App](https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 
 # Project #1 📱
