@@ -1,5 +1,5 @@
 # **Welcome to my Supervised Learning Streamlit App!**
-The goal of my project was to develop a streamlit app that guides the users through a supervised machine learning experience.
+The goal of my [project](https://bohlen-data-science-portfolio-rfcebctk2zkhtw5g7n3eso.streamlit.app/) was to develop a streamlit app that guides the users through a supervised machine learning experience.
 On the app, users can navigate across 3 different tabs, where they can explore different aspects of the machine learning process!
 
 **Tab 1 - Data 📂**
