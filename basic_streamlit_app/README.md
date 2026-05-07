@@ -41,7 +41,7 @@ matplotlib==3.8.4
    (streamlit run main.py)
    
 Here are some of the resources I used to build this app:<br>
-   Dataset:<br>
+   It seems that the Kaggle dataset I used has since been deleted by the user who posted it; here is another analysis of the same dataset instead: https://www.kaggle.com/datasets/zahranusratt/student-social-media-addiction-analysis-dataset<br>
    Streamlit cheat sheet: https://docs.streamlit.io/develop/quick-reference/cheat-sheet<br>
    Markdown guide: https://www.markdownguide.org/basic-syntax/<br>
    Data Visualization guide: https://www.geeksforgeeks.org/data-visualization/data-visualisation-in-python-using-matplotlib-and-seaborn/
