@@ -24,5 +24,5 @@ The fourth project I did this semester was a Streamlit App similar to Project #3
 After the user picks their desired model and chooses hyperparameters such as k, linkage, or n-components, they can view performance feedback, such as scatterplots, dendrograms, elbow plots or silhouette scores. Designing this app helped me appreciate key differences between supervised and unsupervised learning, as well as better understand the different scenarios in which one would use a clustering technique versus a dimension reduction technique.
 Here is a link to my project:
 https://github.com/annabohlen/Bohlen-Data-Science-Portfolio/tree/main/MLUnsupervisedApp
-![App Screenshot](MLStreamlitApp/images/Final11.png)
+![App Screenshot](MLUnsupervisedApp/images/Final11.png)
 
