@@ -1,5 +1,5 @@
 # **Welcome to my Unsupervised Learning Streamlit App!**
-The goal of my project was to develop a streamlit app that guides the users through an unsupervised machine learning experience.
+The goal of my [project](https://bohlen-data-science-portfolio-6hbbsn7aojhhmkqwje5mwy.streamlit.app/) was to develop a streamlit app that guides the users through an unsupervised machine learning experience.
 On the app, users can navigate across 3 different tabs, where they can explore different aspects of the unsupervised machine learning process!
 
 **Tab 1 - Data 📂**
