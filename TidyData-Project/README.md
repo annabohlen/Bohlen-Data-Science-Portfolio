@@ -4,7 +4,27 @@ perform calculations on a dataset, it must be in a "Tidy" format. For a data set
 1. Each variable forms a column.
 2. Each observation forms a row.
 3. Each type of observational unit forms a table.
+After cleaning up the dataset, I also created a couple visualizations in order to help me better understand the dataset.
 
+**Step 1 - Melt the data 🫠**
+
+![Notebook Screenshot](images/Money1.png)
+
+**Step 2 - Split the dataset into two new columns 🔪**
+
+![Notebook Screenshot](images/Money2.png)
+
+**Step 3 - Clean up strings 🧹**
+
+![Notebook Screenshot](images/Money3.png)
+
+**Visualization 1 - Value of comics across each decade 💰**
+
+![Notebook Screenshot](images/Money4.png)
+
+**Visualization 2 - Value of comics sold with each character in them 🦸‍♀️**
+
+![Notebook Screenshot](images/Money5.png)
 
 To run this app locally:
 1. Clone the repository:<br>
